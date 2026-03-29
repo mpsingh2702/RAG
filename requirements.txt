@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-pinecone
+langchain-groq
+duckduckgo-search
+sentence-transformers
