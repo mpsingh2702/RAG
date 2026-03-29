@@ -7,4 +7,5 @@ langchain-huggingface
 langchain-pinecone
 langchain-groq
 duckduckgo-search
+ddgs
 sentence-transformers
